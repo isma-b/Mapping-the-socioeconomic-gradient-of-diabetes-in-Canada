@@ -45,3 +45,16 @@ License
 
 This project uses open data provided by Statistics Canada under the Open Government License – Canada.
 
+
+
+
+
+Conclusion
+
+
+
+This project analyzes provincial variation in diabetes prevalence across Canada using verified data from Statistics Canada’s Health Indicators, annual estimates (Table 13-10-0096-01). After cleaning and standardizing the dataset, the analysis filtered for adults aged 12 years and over, both sexes, and the most recent reference year (2022). The resulting choropleth map and statistical summary reveal clear spatial patterns: prevalence rates are higher in Atlantic Canada and Newfoundland and Labrador, moderate across the Prairies, and lower in Ontario and British Columbia.
+These findings align with established evidence that diabetes prevalence follows a socioeconomic gradient, influenced by factors such as income distribution, healthcare access, and regional lifestyle patterns. The use of open national data, transparent preprocessing, and reproducible geospatial mapping demonstrates technical proficiency in data wrangling, statistical reasoning, and visualization.
+While the estimates are self-reported and not age-standardized, the regional differences are robust and informative for public health and policy design. Extending this work to include socioeconomic or demographic covariates, temporal trends, and uncertainty modeling would further enhance its explanatory power. Overall, the project integrates data science methods with applied public health insight showcasing an ability to translate complex datasets into meaningful, evidence-based interpretation.
+
+
