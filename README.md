@@ -1,6 +1,11 @@
 
 
 Diabetes Gradient in Canada
+
+
+
+
+
 This project analyzes the prevalence of diabetes across Canadian provinces using official data from Statistics Canada (Table 13-10-0096-01). The goal is to map and understand the socioeconomic gradient of diabetes, showing how health outcomes vary regionally.
 
 Overview
