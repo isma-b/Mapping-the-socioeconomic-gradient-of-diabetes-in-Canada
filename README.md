@@ -1,14 +1,32 @@
-# Mapping the Socioeconomic Gradient of Diabetes in Canada
 
-## Project Overview
-This project investigates how diabetes prevalence varies across different socioeconomic groups in Canada. By analyzing publicly available health and demographic data, the goal is to identify disparities and provide insights relevant for public health policy.
 
-## Key Highlights
-- Examines the relationship between diabetes prevalence and socioeconomic indicators such as income, education, and geographic location.
-- Visualizes provincial patterns and regional disparities.
-- Provides a foundation for further analysis or policy-oriented research.
+Diabetes Gradient in Canada
+This project analyzes the prevalence of diabetes across Canadian provinces using official data from Statistics Canada (Table 13-10-0096-01). The goal is to map and understand the socioeconomic gradient of diabetes, showing how health outcomes vary regionally.
 
-## Data
-- The datasets used are publicly available and focus on diabetes prevalence and socioeconomic factors in Canada.
+Overview
+The notebook performs:
+1. Loading and cleaning of Statistics Canada data
+2. Filtering for diabetes prevalence indicators
+3. Statistical summary of provincial rates
+4. Geographic mapping of diabetes prevalence using a choropleth map
+5. Discussion of regional health disparities
 
+Key Findings
+Diabetes prevalence varies noticeably across provinces.
+Higher prevalence tends to align with regions facing socioeconomic challenges.
+Highlights the importance of addressing structural health inequalities in Canada.
+
+Data Source
+Dataset: Health indicator statistics, annual estimates — Table 13-10-0096-01 Provider: Statistics Canada Frequency: Annual
+
+Requirements
+Python 3.10 or higher
+pandas, geopandas, matplotlib, seaborn
+Run the notebook directly in Google Colab for best compatibility.
+
+Visualization
+The notebook generates a choropleth map showing diabetes prevalence by province.
+
+License
+This project uses open data provided by Statistics Canada under the Open Government License – Canada.
 
